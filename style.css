@@ -26,8 +26,8 @@ p {
 	text-align: center;
 }
 .banner h1	{
-	color: rgb(255,255,255);
-	font-size: 45px;
+	color: rgb(230,230,230);
+	font-size: 60px;
 	margin: 0;
 }
 .banner p {
@@ -41,12 +41,13 @@ p {
   border-radius: 4px;
   display: inline-block;
   text-decoration: none;
-  transition: .3s;
+  transition: .6s;
+  
 }
 
 .button-blue:hover {
   background-color: #0D1EC6;
-  color: white;
+  color: lightgreen;
 }
 
 .card-white {
